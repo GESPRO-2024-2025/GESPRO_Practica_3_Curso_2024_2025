@@ -15,7 +15,7 @@ En esta práctica hemos tenido que crear 2 forks para poder trabajar con las ver
 5. Ir al fork del proyecto de Miguel y crear un issue. Después, crear una rama a partir de ese issue. Comprobar que esté en la última actualización del fork de Miguel.
 6. Hacer un copy-paste en local del proyecto original al proyecto de Miguel.
 > [!IMPORTANT]
-> No añadir el fichero .git, ya que fastidiará el proyecto y se tendrá que volver a empezar desde el commit que se estaba haciendo.
+> No incluir el fichero .git, ya que perjudicará el proyecto y se tendrá que reiniciar desde el commit que se estaba realizando.
 7. Hacer un commit y push en el fork de Miguel.
 8. Crear una pull request en el fork de Miguel para fusionar los cambios de la rama temporal la rama master.
 9. Aceptar la pull request y actualizar local.
