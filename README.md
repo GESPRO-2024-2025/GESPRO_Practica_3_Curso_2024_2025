@@ -27,10 +27,11 @@ El listado de la izquierda es la gráfica con los commits con los cambios y los 
 ![Imagen1](/images/GraficoCommmits.JPG)
 
 ## Imagen Primer commit
-En la siguiente imagen se puede ver el primer commit creado y mergeado correspondiente a la primera 
+En la siguiente imagen se puede ver el primer commit creado y mergeado correspondiente al primer commit del 01/02/2017 de nuestro fork del repositorio Go Bees.
 ![Imagen2](/images/ImagenPrimerCommit2.jpg)
 
 ## Imagen Último commit
+En la siguiente imagen se puede ver el último commit creado y mergeado correspondiente al último commit del 08/02/2017 de nuestro fork del repositorio Go Bees.
 ![Imagen3](/images/ImagenUltimoCommit.png)
 
 ## Miembros del grupo
