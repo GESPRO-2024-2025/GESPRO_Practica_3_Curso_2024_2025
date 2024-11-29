@@ -29,12 +29,12 @@ En esta práctica hemos tenido que crear 2 forks para poder trabajar con las ver
 ![Imagen11](/images/Clonacion.JPG)
 
 5. En nuestro proyecto Go Bees, buscar en GitKraken un commit antiguo para hacer un hard reset y volver a ese commit.
-![Imagen12](/images/Paso5-1.JPG)
-![Imagen13](/images/Paso5-2.JPG)
+![Imagen12](/images/Paso5-1.png)
+![Imagen13](/images/Paso5-2.png)
 
 6. Ir a nuestro proyecto Práctica 3 en GitHub y crear un issue. Después, desde la issue crear una rama a partir de ese issue. Además, en GitKraken, comprobar que la rama de master esté en la última actualización del proyecto práctica 3.
-![Imagen14](/images/Paso6.JPG)
-![Imagen15](/images/Paso6o2.JPG)
+![Imagen14](/images/Paso6.png)
+![Imagen15](/images/Paso6o2.png)
 
 7. Hacer un copy-paste en local del proyecto go bees al proyecto práctica 3 desde el explorador de archivos.
 
