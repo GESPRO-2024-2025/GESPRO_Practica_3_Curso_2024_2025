@@ -24,14 +24,19 @@ En esta práctica hemos tenido que crear 2 forks para poder trabajar con las ver
 ## Gráfico con la lista de commits
 En la siguiente imagen a la izquierda se pueden ver en la sección de local las ramas editadas en local desde el ordenador actual. Debajo en Remote se pueden ver todas las ramas que se han creado, incluidas las que se han generado y editado desde otros ordenadores.
 El listado de la izquierda es la gráfica con los commits con los cambios y los merges hechos por ambos integrantes del equipo, se puede identificar cada uno con su icono de github.
-![Imagen1](/images/GraficoCommmits.JPG)
+![Imagen1](/images/GraficoCommits.JPG)
 
 ## Imagen Primer commit
 En la siguiente imagen se puede ver el primer commit creado y mergeado correspondiente a la primera 
 ![Imagen2](/images/ImagenPrimerCommit2.jpg)
 
 ## Imagen Último commit
-![Imagen3](/images/ImagenUltimoCommit.png)
+![Imagen3](/images/ImagenUltimoCoommit.png)
+
+## Resolver conflicto de Commits
+1. Hacer un push al repositorio.
+
+![alt text](image.png)
 
 ## Miembros del grupo
 <table>
