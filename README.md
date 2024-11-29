@@ -2,7 +2,11 @@
 ## Índice
 1. [Introducción](#introducción)
 2. [Guía de secuencia de acciones](#guía-de-secuencia-de-acciones)
-3. [Miembros del grupo](#miembros-del-grupo)
+3. [Gráfico con la lista de commits](#gráfico-con-la-lista-de-commits)
+4. [Imagen Primer commit](#imagen-primer-commit)
+5. [Imagen Último commit](#imagen-último-commit)
+6. [Resolver conflicto de Commits](#resolver-conflicto-de-commits)
+7. [Miembros del grupo](#miembros-del-grupo)
 
 ## Introducción
 En esta práctica hemos tenido que crear 2 forks para poder trabajar con las versiones de un proyecto como si las estuviésemos haciendo nosotros. Hemos hecho commits de forma alternada entre los miembros del grupo y hemos hecho pull requests para poder fusionar los cambios en el proyecto forkeado por nosotros de Miguel en la rama master.
@@ -25,12 +29,12 @@ En esta práctica hemos tenido que crear 2 forks para poder trabajar con las ver
 ![Imagen11](/images/Clonacion.JPG)
 
 5. En nuestro proyecto Go Bees, buscar en git kraken un commit antiguo para hacer un hard reset y volver a ese commit.
-![Imagen12](/images/Paso5-1.JPG)
-![Imagen13](/images/Paso5-2.JPG)
+![Imagen12](/images/Paso5-1.png)
+![Imagen13](/images/Paso5-2.png)
 
 6. Ir a nuestro proyecto Práctica 3 y crear un issue. Después, crear una rama a partir de ese issue. Comprobar que la rama de master esté en la última actualización del proyecto práctica 3.
-![Imagen14](/images/Paso6.JPG)
-![Imagen15](/images/Paso6o2.JPG)
+![Imagen14](/images/Paso6.png)
+![Imagen15](/images/Paso6o2.png)
 
 7. Hacer un copy-paste en local del proyecto go bees al proyecto práctica 3.
 
@@ -58,13 +62,23 @@ En la siguiente imagen se puede ver el primer commit creado y mergeado correspon
 
 ## Imagen Último commit
 En la siguiente imagen se puede ver el último commit creado y mergeado correspondiente al último commit del 08/02/2017 de nuestro fork del repositorio Go Bees.
-![Imagen3](/images/ImagenUltimoCooommit.png)
+![Imagen3](/images/ImagenUltimoCoommit.png)
 
 
 ## Resolver conflicto de Commits
 1. Hacer un push al repositorio.
 
-![alt text](image.png)
+![alt text](images/image.png)
+
+2. Comprobar que nos sale mensaje de error, debido a que no hemos hecho pull de los últimos cambios en remoto.
+
+![alt text](images/image6.png)
+
+3. Sincronizar los cambios de remoto con los locales y después volver a hacer push.
+
+Entonces se creará un commit que corresponde a la fusión de los cambios de remoto con los locales.
+
+![alt text](images/image-1.png)
 
 ## Miembros del grupo
 <table>
