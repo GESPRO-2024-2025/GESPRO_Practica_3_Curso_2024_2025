@@ -41,6 +41,7 @@ En esta práctica hemos tenido que crear 2 forks para poder trabajar con las ver
 
 > [!IMPORTANT]
 > No añadir el fichero .git, ya que fastidiará el proyecto y se tendrá que volver a empezar desde el commit que se estaba haciendo.
+
 ![alt text](images/copy-paste.png)
 
 8. Hacer un commit y push en el proyecto práctica 3 desde GitKraken.
