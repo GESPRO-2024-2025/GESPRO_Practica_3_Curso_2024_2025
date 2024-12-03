@@ -6,7 +6,8 @@
 4. [Imagen Primer commit](#imagen-primer-commit)
 5. [Imagen Último commit](#imagen-último-commit)
 6. [Resolver conflicto de Commits](#resolver-conflicto-de-commits)
-7. [Miembros del grupo](#miembros-del-grupo)
+7. [Capturas de Pull Request](#capturas-de-pull-request)
+8. [Miembros del grupo](#miembros-del-grupo)
 
 ## Introducción
 En esta práctica hemos tenido que crear 2 forks para poder trabajar con las versiones de un proyecto como si las estuviésemos haciendo nosotros. Hemos hecho commits de forma alternada entre los miembros del grupo y hemos hecho pull requests para poder fusionar los cambios en el proyecto forkeado por nosotros de Miguel en la rama master.
@@ -38,14 +39,17 @@ En esta práctica hemos tenido que crear 2 forks para poder trabajar con las ver
 
 7. Hacer un copy-paste en local del proyecto go bees al proyecto práctica 3 desde el explorador de archivos.
 
-
 > [!IMPORTANT]
 > No añadir el fichero .git, ya que fastidiará el proyecto y se tendrá que volver a empezar desde el commit que se estaba haciendo.
 
-8. Hacer un commit y push en el proyecto práctica 3 desde GirKraken.
+![alt text](images/copy-paste.png)
+
+8. Hacer un commit y push en el proyecto práctica 3 desde GitKraken.
+![alt text](images/commit.png)
 9. Crear una pull request en el proyecto práctica 3 para fusionar los cambios de la rama temporal la rama master.
 10. Aceptar la pull request y actualizar local.
-11. Repetir hasta que se hayan hecho todos los commits a la fecha 08/02/2017.
+![alt text](images/pullRequest.png)
+11. Repetir hasta que se hayan hecho todos los commits a la fecha 08/02/2017 ✅.
 
 ## Gráfico con la lista de commits
 En la siguiente imagen a la izquierda se pueden ver en la sección de local las ramas editadas en local desde el ordenador actual. Debajo en Remote se pueden ver todas las ramas que se han creado, incluidas las que se han generado y editado desde otros ordenadores.
@@ -79,6 +83,9 @@ En la siguiente imagen se puede ver el último commit creado y mergeado correspo
 Entonces se creará un commit que corresponde a la fusión de los cambios de remoto con los locales.
 
 ![alt text](images/image-1.png)
+
+## Capturas de Pull Request
+![alt text](images/allPullRequest.png)
 
 ## Miembros del grupo
 <table>
