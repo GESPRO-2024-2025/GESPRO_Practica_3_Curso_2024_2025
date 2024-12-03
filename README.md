@@ -62,11 +62,11 @@ Además, en las siguiente imagenes se pueden ver todas las Issues  de las que se
 
 ## Imagen Primer commit
 En la siguiente imagen se puede ver el primer commit creado y mergeado correspondiente al primer commit del 01/02/2017 de nuestro fork del repositorio Go Bees.
-![Imagen2](/images/ImagenPrimerCommit2.jpg)
+![Imagen2](/images/CapturaPrimerCommitBien.JPG)
 
 ## Imagen Último commit
 En la siguiente imagen se puede ver el último commit creado y mergeado correspondiente al último commit del 08/02/2017 de nuestro fork del repositorio Go Bees.
-![Imagen3](/images/ImagenUltimoCoommit.png)
+![Imagen3](/images/CapturaUltimoCommitBien.JPG)
 
 
 ## Resolver conflicto de Commits
