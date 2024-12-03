@@ -84,6 +84,11 @@ Entonces se creará un commit que corresponde a la fusión de los cambios de rem
 
 ![alt text](images/image-1.png)
 
+## Información del proyecto
+Se pide una captura con los gráficos de pulse y code frequency generados en GitHub.
+![alt text](images/Pulse.JPG)
+![alt text](images/CodeFrequency.JPG)
+
 ## Capturas de Pull Request
 ![alt text](images/allPullRequest.png)
 
